@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>CV-FRAGUEIRO </title>
+</head>
+<body>
+    <header>
+
+        <div>
+<h1>CV // GASTON FRAGUEIRO</h1>
+<h3>e-mail: dr.fragueiro@gmail.com</h3>
+
+        </div>
+    </header>
+    
+    <section>
+        <div>
+
+         <h2>FORMACION ACADEMICA</h2>
+         <h3>Carreras de Grado finalizadas</h3>
+         <ul>
+            <li>1997 - Periodista</li>
+            <li>2006 - Abogado</li>
+         </ul>
+         <h3>Carreras de Pos Grado </h3>
+         <ul>
+            <li>Diplomatura en Comunicación Política</li>
+            <li>Diplomatura en Derecho Penal</li>
+            <li>Especialización de Derecho Laboral</li>
+            </ul>
+
+        <h3>Carrera en Curso</h3>
+            <p>Actualmente me encuentro cursando el segundo año (3er cuatrimestre) de la Carrera: <b>Técnico Universitario en Programación</b></p>
+         
+
+
+         </div>
+
+
+    </section>
+</body>
+</html>
