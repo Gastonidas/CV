@@ -14,7 +14,18 @@
 
         </div>
     </header>
+   <!-- sección presentacion  -->
+   <section>
+    <div>
     
+        <h2>ACERCA DE MI</h2>
+    <p>Soy una persona proactiva, responsable y con una fuerte orientación al aprendizaje continuo y al cumplimiento de objetivos. Me destaco por mi capacidad para trabajar en equipo, mi adaptabilidad 
+        ante entornos cambiantes y una excelente disposición para enfrentar nuevos desafíos profesionales.</p>       
+    </div>
+
+   </section>
+   
+    <!-- sección de Formación Académica -->
     <section>
         <div>
 
@@ -24,7 +35,7 @@
             <li>1997 - Periodista</li>
             <li>2006 - Abogado</li>
          </ul>
-         <h3>Carreras de Pos Grado </h3>
+         <h3>Carreras de PosGrado </h3>
          <ul>
             <li>Diplomatura en Comunicación Política</li>
             <li>Diplomatura en Derecho Penal</li>
