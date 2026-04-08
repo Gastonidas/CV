@@ -10,7 +10,8 @@
 
         <div>
 <h1>CV // GASTON FRAGUEIRO</h1>
-<h3>e-mail: dr.fragueiro@gmail.com</h3>
+<h4>e-mail: dr.fragueiro@gmail.com</h4>
+<h4>tel:555-5555</h4>
 
         </div>
     </header>
@@ -48,6 +49,26 @@
 
 
          </div>
+
+
+    </section>
+    <!-- experiencia laboral -->
+    <section>
+        <div>
+
+        <h2>EXPERIENCIA LABORAL</h2>
+        <UL>
+        <li>2019 - Actualidad: Gerente de Personal de GIRSU Quilmes</li>
+        <li>2008 - 2019: Estudio Jurídico <b>Fragueiro y Asoc</b></li>
+
+
+        </UL>
+
+        
+
+
+
+        </div>
 
 
     </section>
